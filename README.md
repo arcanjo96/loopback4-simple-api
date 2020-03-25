@@ -13,6 +13,6 @@ npm run test
 
 ## Running Project
 
-1 - npm install or npm i
-2 - config your database in datasources. Create datasource: lb4 datasource
-3 - npm run start or npm start
+* npm install or npm i
+* config your database in datasources. Create datasource: lb4 datasource
+* npm run start or npm start
