@@ -1,3 +1,18 @@
-# authentication
+# Simple Api with JWT
 
-[![LoopBack](https://github.com/strongloop/loopback-next/raw/master/docs/site/imgs/branding/Powered-by-LoopBack-Badge-(blue)-@2x.png)](http://loopback.io/)
+Uma simples demonstração, criada com loopback4.
+
+### Prerequisites
+
+* [LoopBack](https://loopback.io/)
+* [Node](https://nodejs.org/)
+
+## Running the tests
+
+npm run test
+
+## Running Project
+
+1 - npm install or npm i
+2 - config your database in datasources. Create datasource: lb4 datasource
+3 - npm run start or npm start
